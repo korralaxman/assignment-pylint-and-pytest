@@ -23,7 +23,3 @@ if choice == "decode":
 print(encoded)
 
 
-####
-/**
-Source : http://pylint.pycqa.org/en/latest/tutorial.html
-**/        
